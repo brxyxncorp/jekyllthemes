@@ -4,7 +4,7 @@ title: Brxyxn
 date: 2017-03-30 01:42:00
 homepage: https://github.com/brxyxncorp/brxyxn
 download: https://github.com/brxyxncorp/brxyxn/download/brxyxn.zip
-demo: http://scribble.muan.co/2013/05/06/scribble-the-jekyll-theme/
+demo: https://brxyxn.xyz/
 author: Brayan López
 thumbnail: brxyxn.png
 license: MIT License
